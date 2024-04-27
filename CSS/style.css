@@ -3,12 +3,25 @@ html, body{
     padding: 0;
 }
 
+html {
+    height: 100%; /* This should be height: 100%, not min-height */
+    margin: 0;
+    padding: 0;
+}
+
 body{
-    /* background: linear-gradient(to bottom, #f9b832, #ffffff); */
+    position: relative;
     background-color: #f9b832;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    min-height: 100vh; /* Use viewport height to ensure at least full screen height */
+    position: relative; /* Needed for absolute positioning of the footer */
+    padding-bottom: 75px; /* Footer height to ensure it doesn't overlap content */
+    box-sizing: border-box; /* Include padding in the height calculation */
+    
 }
+
+    /* background: linear-gradient(to bottom, #f9b832, #ffffff); */
 
 
 .navbar {
@@ -87,7 +100,7 @@ body{
   
   /* Title CSS End*/
 
-  .footer{
+  .footer {
     background-image: repeating-linear-gradient(
         45deg,
         #f9b832,
@@ -95,7 +108,9 @@ body{
         #000000 10px,
         #000000 20px
     );
-    height: 75px; /* Set the height of the footer */
-    margin: 0;
-    padding: 0;
-  }
+    height: 75px;
+    position: absolute; /* This positions the footer at the bottom of the body */
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
