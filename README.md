@@ -36,7 +36,10 @@ No cinematic endeavor is complete without a talented cast to bring the story to 
 
 # Reflection/Evaluation:
 Our goal was to craft an engaging and informative guide that would resonate deeply with the NYU Abu Dhabi community, particularly in light of recent flooding events. Through a blend of humor and essential survival tips, we aimed to leave our audience both informed and prepared.
+
 In terms of the technical aspects, our shot planning and video editing processes were pivotal in achieving a high-quality final product. The use of authentic flood footage added a layer of realism that significantly enhanced viewer engagement. 
+
 However, there were challenges along the way. Coordinating shoots and managing the logistics of filming itested our adaptability and resourcefulness. Despite these hurdles, the team's ability to pivot and find creative solutions was a learning experience in itself and something we consider a success.
+
 Overall, the project not only achieved its intended goal of educating and preparing students for flood scenarios but also served as a profound learning experience for everyone involved. It fostered a sense of community and collaboration that we will carry forward into future projects.
 
