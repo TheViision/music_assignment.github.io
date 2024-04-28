@@ -30,6 +30,7 @@ No cinematic endeavor is complete without a talented cast to bring the story to 
 ## Software and Instruments: 
 1. IPhone
 2. Adobe Premier Pro
+3. Dynamic Microphone
 
 
 # Reflection/Evaluation:
