@@ -14,7 +14,7 @@ html, body{
 }
 
 html {
-    height: 100%; /* This should be height: 100%, not min-height */
+    height: 100%; 
     margin: 0;
     padding: 0;
 }
@@ -199,7 +199,7 @@ body{
     height: 100%; 
 }
 
-#text_box {
+#text_box_v2 {
     padding-top: 0;
     display: flex;
     flex-direction: column; /* Stack children vertically */
