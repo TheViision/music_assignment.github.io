@@ -37,7 +37,7 @@ No cinematic endeavor is complete without a talented cast to bring the story to 
 # Reflection/Evaluation:
 Our goal was to craft an engaging and informative guide that would resonate deeply with the NYU Abu Dhabi community, particularly in light of recent flooding events. Through a blend of humor and essential survival tips, we aimed to leave our audience both informed and prepared.
 
-In terms of the technical aspects, our shot planning and video editing processes were pivotal in achieving a high-quality final product. The use of authentic flood footage added a layer of realism that significantly enhanced viewer engagement. 
+In terms of the technical aspects, our shot planning and video editing processes were pivotal in achieving a high-quality final product. The use of authentic flood footage added a layer of realism that we were aiming for. 
 
 An essential component of our process in the project was the effective coordination through a well-structured script. Early on, we recognized the importance of a meticulously crafted script to guide the entire production process. This script not only outlined the dialogue and actions but also detailed the sequence and timing of each scene. This precise planning was instrumental in achieving our target video length and ensuring that every segment conveyed its intended message without redundancy or omission.
 
