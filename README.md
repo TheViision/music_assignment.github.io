@@ -37,6 +37,7 @@ No cinematic endeavor is complete without a talented cast to bring the story to 
 2. iMovie
 3. Adobe Premier Pro
 4. Dynamic Microphone
+5. Zoom H5 Recorder
 
 
 # Reflection/Evaluation:
