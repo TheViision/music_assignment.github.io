@@ -28,9 +28,10 @@ Video editing is one of the crucial parts of our project. We compiled the shots 
 ## Casting and Collaboration:
 No cinematic endeavor is complete without a talented cast to bring the story to life. Leveraging our network of contacts, we enlisted individuals whose performances would elevate our project to new heights. Notably, we extend our heartfelt appreciation to the C2 security personnel, whose participation added a layer of authenticity to our narrative. Through their collaboration, we were able to capture moments of tension and drama that resonate with viewers on a visceral level.
 ## Software and Instruments: 
-1. IPhone
-2. Adobe Premier Pro
-3. Dynamic Microphone
+1. iPhone
+2. iMovie
+3. Adobe Premier Pro
+4. Dynamic Microphone
 
 
 # Reflection/Evaluation:
