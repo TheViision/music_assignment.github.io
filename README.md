@@ -1,7 +1,7 @@
 # Project Name: Survival Guide for NYUAD flood 
 ## by Ian, Jihad, Taskin, Marija ([website]())
 
-![alt text](images/intro.png)
+![alt text](Images/intro.png)
 
 # Project Description:
 ## Overall Concept and Theme:
@@ -14,7 +14,7 @@ By using a combination of real footage from the rain events and staged demonstra
 3. Finding the Nearest Authority: The final step guides viewers on how to seek help during emergencies, pointing out the importance of knowing who to contact and where to go when in need. This part can include mock scenarios or reenactments to illustrate how and where students can find help on campus.
 The aim of your video is to leave viewers with a clear understanding of how to act during a flood, using a mix of humor and serious messaging to ensure the survival steps are remembered. By the end of the video, viewers should feel more confident about managing similar situations, knowing both the practical steps to take and the resources available to them on campus.
 
-![alt text](images/steps.png)
+![alt text](Images/steps.png)
 
 # Process:
 ## Brainstorming Phase:
