@@ -39,7 +39,7 @@ body{
 
 #LIM, #RIM {
     flex: 0 0 auto; 
-    margin-top: 3vw; 
+    margin-top: 20vw; 
   }
   
   #LIM{
@@ -75,7 +75,7 @@ body{
   
   #title {
       text-align: center; 
-      height: 14vw;
+      height: 20vw;
       margin: auto;
       width: 50vw; 
       box-shadow: 0 0.5vw 5px rgba(0,0,0,0.2); 
@@ -100,6 +100,8 @@ body{
   
   /* Title CSS End*/
 
+ /* FOOTER START */
+ 
   .footer {
     background-image: repeating-linear-gradient(
         45deg,
@@ -115,6 +117,27 @@ body{
     right: 0;
 }
 
+/* FOOTER END */
+
+
+/* STEPS START */
+
+#steps{
+    background-color: black;
+    display: flex;
+    align-items: stretch;
+    width: 97%;
+    justify-content: center;
+    margin: auto;
+    margin-top: 2vw;
+    border-radius: 1vw;
+    border: 0.25vw solid white;
+    box-shadow: 0 0.5vw 5px rgba(0,0,0,0.2); 
+  }
+
+  /* STEPS END */
+
+
 /* Modal styles */
 .modal {
     display: none; /* Hidden by default */
@@ -125,8 +148,8 @@ body{
     width: 100%; /* Full width */
     height: 100%; /* Full height */
     overflow: auto; /* Enable scroll if needed */
-    background-color: rgb(0,0,0); /* Fallback color */
-    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+    background-color: rgb(0,0,0); 
+    background-color: rgba(0,0,0,0.4); 
 
 }
 
@@ -156,4 +179,12 @@ body{
     color: black;
     text-decoration: none;
     cursor: pointer;
+}
+
+.video-container {
+    margin-bottom: 10vw;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 100%; 
 }
