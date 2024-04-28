@@ -206,7 +206,7 @@ body{
     justify-content: center; /* Center children vertically */
     align-items: center; /* Center children horizontally */
     background-color: black;
-    color: #f9b832;
+    color: black;
     border: 0.25vw solid white;
     text-align: center;
     margin: auto;
@@ -215,6 +215,15 @@ body{
     height: 19vw;
     margin-bottom: 4vw; /* Optional: To ensure text doesn't touch the edges */
 }
+
+#tBox_2{
+    background-color: #fff; 
+    border: 0.25vw solid black; 
+    border-radius: 1vw 1vw 1vw 1vw; 
+    width: 30vw; 
+    margin: auto;
+    margin-top: 1vw;
+  }
 
 /* FONT START */
 
