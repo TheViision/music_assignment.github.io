@@ -1,3 +1,13 @@
+@font-face {
+    font-family: OZY;
+    src: url('../font/Oswald/Oswald-VariableFont_wght.ttf');
+}
+
+@font-face {
+    font-family: Robo;
+    src: url('../font/ROBO/Roboto_Slab/RobotoSlab-VariableFont_wght.ttf');
+}
+
 html, body{
     margin: 0;
     padding: 0;
@@ -188,3 +198,33 @@ body{
     align-items: center; 
     height: 100%; 
 }
+
+#text_box {
+    padding-top: 0;
+    display: flex;
+    flex-direction: column; /* Stack children vertically */
+    justify-content: center; /* Center children vertically */
+    align-items: center; /* Center children horizontally */
+    background-color: black;
+    color: #f9b832;
+    border: 0.25vw solid white;
+    text-align: center;
+    margin: auto;
+    border-radius: 1vw;
+    width: 47vw;
+    height: 15vw;
+    margin-bottom: 4vw; /* Optional: To ensure text doesn't touch the edges */
+}
+
+/* FONT START */
+
+h1,h2{
+    font-family: OZY;
+}
+
+p{
+    font-family: Robo;
+}
+
+
+/* FONT END */
