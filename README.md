@@ -11,7 +11,7 @@ By using a combination of real footage from the rain events and staged demonstra
 ## Three Key Steps Explored:
 1. Wearing Proper Attire: This step emphasizes the importance of being physically prepared for flood conditions, highlighting suitable clothing and gear that can help protect against the elements. Demonstrating this visually shows viewers the practical benefits of being well-equipped.
 2. Staying Indoors: Here, the focus is on the safety of remaining inside secure structures during severe flooding, minimizing exposure to hazards. This segment uses footage of outdoor flooding to underscore the risks of venturing outside.
-3. Finding the Nearest Authority: The final step guides viewers on how to seek help during emergencies, pointing out the importance of knowing who to contact and where to go when in need. This part can include mock scenarios or reenactments to illustrate how and where students can find help on campus.
+3. Finding the Nearest Authority: The final step guides viewers on how to seek help during emergencies, pointing out the importance of knowing who to contact and where to go when in need. This part includes mock scenarios to illustrate how and where students can find help on campus.
 
 ![alt text](Image/steps.png)
 
