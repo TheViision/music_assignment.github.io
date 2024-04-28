@@ -24,14 +24,13 @@ body{
     background-color: #f9b832;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    min-height: 100vh; /* Use viewport height to ensure at least full screen height */
-    position: relative; /* Needed for absolute positioning of the footer */
-    padding-bottom: 75px; /* Footer height to ensure it doesn't overlap content */
-    box-sizing: border-box; /* Include padding in the height calculation */
+    min-height: 100vh; 
+    position: relative; 
+    padding-bottom: 75px; 
+    box-sizing: border-box; 
     
 }
 
-    /* background: linear-gradient(to bottom, #f9b832, #ffffff); */
 
 
 .navbar {
@@ -92,12 +91,13 @@ body{
     }
   
     #title h1 {
+      font-family: OZY;
       margin-top: 4vw; 
       display: inline-block;
       color: white;
       text-align: center;
       text-decoration: none;
-      font-size: 6.5vw;
+      font-size: 9vw;
       width: 45vw;
       border-radius: 1vw 1vw 1vw 1vw; 
       text-shadow: 
@@ -212,13 +212,15 @@ body{
     margin: auto;
     border-radius: 1vw;
     width: 47vw;
-    height: 15vw;
+    height: 19vw;
     margin-bottom: 4vw; /* Optional: To ensure text doesn't touch the edges */
 }
 
 /* FONT START */
 
-h1,h2{
+
+
+h2{
     font-family: OZY;
 }
 
