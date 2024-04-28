@@ -39,7 +39,9 @@ Our goal was to craft an engaging and informative guide that would resonate deep
 
 In terms of the technical aspects, our shot planning and video editing processes were pivotal in achieving a high-quality final product. The use of authentic flood footage added a layer of realism that significantly enhanced viewer engagement. 
 
-However, there were challenges along the way. Coordinating shoots and managing the logistics of filming itested our adaptability and resourcefulness. Despite these hurdles, the team's ability to pivot and find creative solutions was a learning experience in itself and something we consider a success.
+An essential component of our process in the project was the effective coordination through a well-structured script. Early on, we recognized the importance of a meticulously crafted script to guide the entire production process. This script not only outlined the dialogue and actions but also detailed the sequence and timing of each scene. This precise planning was instrumental in achieving our target video length and ensuring that every segment conveyed its intended message without redundancy or omission.
+
+However, there were challenges along the way. Coordinating shoots and managing the logistics of filming tested our adaptability and resourcefulness. Despite these hurdles, the team's ability to pivot and find creative solutions was a learning experience in itself and something we consider a success.
 
 Overall, the project not only achieved its intended goal of educating and preparing students for flood scenarios but also served as a profound learning experience for everyone involved. It fostered a sense of community and collaboration that we will carry forward into future projects.
 
