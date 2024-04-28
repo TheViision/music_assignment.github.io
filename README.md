@@ -1,5 +1,5 @@
 # Project Name: Survival Guide for NYUAD flood 
-## by Ian, Jihad, Taskin, Marija ([website]())
+## by Ian, Jihad, Taskin, Marija ([website](https://theviision.github.io/video_assignment.github.io/))
 
 ![alt text](Image/intro.png)
 
